@@ -1,0 +1,113 @@
+﻿Restaurant_ID,Restaurant name,Cuisine,,,Restaurant_ID,Restaurant name,Cuisine
+135069,Abondance Restaurante Bar,Bar,,,132851,KFC,American
+132754,Cabana Huasteca,Mexican,,,132583,McDonalds Centro,American
+132572,Cafe Chaires,Cafeteria,,,132872,Pizzeria Julios,American
+132922,Cafe Punta Del Cielo,Cafeteria,,,132958,Tacos Los Volcanes,American
+135088,Cafeteria Cenidet,Cafeteria,,,132951,Vips,American
+135032,Cafeteria Y Restaurant El Pacifico,Cafeteria,,,132667,Little Pizza Emilio Portes Gil,Armenian
+135032,Cafeteria Y Restaurant El Pacifico,Contemporary,,,132866,Chaires,Bakery
+132861,Carl's Jr,Burgers,,,135069,Abondance Restaurante Bar,Bar
+132613,Carnitas Mata,Mexican,,,132921,Crudalia,Bar
+132740,Carreton De Flautas Y Migadas,Mexican,,,135057,El Herradero Restaurante And Bar,Bar
+132845,Cenaduria El Rincón De Tlaquepaque,Mexican,,,135026,La Cantina,Bar
+132866,Chaires,Bakery,,,135052,La Cantina Restaurante,Bar
+132866,Chaires,Cafeteria,,,135041,Luna Cafe,Bar
+132921,Crudalia,Bar,,,134983,Restaurant And Bar And Clothesline Carlos N Charlies,Bar
+132869,Dominos Pizza,Pizzeria,,,135019,Restaurant Bar Coty Y Pablo,Bar
+132773,El Cotorreo,Family,,,135059,Restaurant Bar Hacienda Los Martinez,Bar
+132773,El Cotorreo,Mexican,,,135073,Restaurante Bar El Gallinero,Bar
+135057,El Herradero Restaurante And Bar,Bar,,,135048,Restaurante Bar Fu-Hao,Bar
+132846,El Lechon Potosino ,International,,,135071,Restaurante La Cantina,Bar
+135035,El Mundo De La Pasta,Italian,,,132937,Rockabilly ,Bar
+135018,El Oceano Dorado,Mexican,,,132954,La Parroquia,Breakfast
+132925,El Pueblito,Mexican,,,132955,Emilianos,Brewery
+135025,El Rincon De San Francisco,Mexican,,,135026,La Cantina,Brewery
+135106,El Rincón De San Francisco,Mexican,,,135052,La Cantina Restaurante,Brewery
+132955,Emilianos,Brewery,,,134983,Restaurant And Bar And Clothesline Carlos N Charlies,Brewery
+132723,Gordas De Morales,Mexican,,,135073,Restaurante Bar El Gallinero,Brewery
+132834,Gorditas Doa Gloria,Mexican,,,135071,Restaurante La Cantina,Brewery
+132706,Gorditas Dona Tota,Mexican,,,132861,Carl's Jr,Burgers
+132584,Gorditas Doña Tota,Mexican,,,132858,Hamburguesas Valle Dorado,Burgers
+132608,Hamburguesas La Perica,Mexican,,,134976,Log Yin,Burgers
+132885,Hamburguesas Saul,Cafeteria,,,135086,McDonalds Parque Tangamanga,Burgers
+132858,Hamburguesas Valle Dorado,Burgers,,,132870,Tortas Y Hamburguesas El Gordo,Burgers
+132851,KFC,American,,,132572,Cafe Chaires,Cafeteria
+132851,KFC,Game,,,132922,Cafe Punta Del Cielo,Cafeteria
+134999,Kiku Cuernavaca,Japanese,,,135088,Cafeteria Cenidet,Cafeteria
+135079,Koye Sushi,Chinese,,,135032,Cafeteria Y Restaurant El Pacifico,Cafeteria
+135026,La Cantina,Bar,,,132866,Chaires,Cafeteria
+135026,La Cantina,Brewery,,,132885,Hamburguesas Saul,Cafeteria
+135052,La Cantina Restaurante,Bar,,,135053,La Fontana Pizza Restaurante And Cafe,Cafeteria
+135052,La Cantina Restaurante,Brewery,,,135041,Luna Cafe,Cafeteria
+135055,La Cochinita Pibil Restaurante Yucateco,Mexican,,,135030,Preambulo Wifi Zone Cafe,Cafeteria
+132755,La Estrella De Dimas,Mexican,,,135079,Koye Sushi,Chinese
+135053,La Fontana Pizza Restaurante And Cafe,Cafeteria,,,135042,Restaurant Oriental Express,Chinese
+135053,La Fontana Pizza Restaurante And Cafe,Fast Food,,,135044,Restaurant Wu Zhuo Yi,Chinese
+135053,La Fontana Pizza Restaurante And Cafe,Pizzeria,,,135030,Preambulo Wifi Zone Cafe,Coffee Shop
+132954,La Parroquia,Breakfast,,,135032,Cafeteria Y Restaurant El Pacifico,Contemporary
+132626,La Perica Hamburguesa,Italian,,,135074,Restaurante La Parroquia Potosina,Contemporary
+132862,La Posada Del Virrey,International,,,132773,El Cotorreo,Family
+135028,La Virreina,Mexican,,,132768,Mariscos Tia Licha,Family
+132733,Little Caesars,Pizzeria,,,135053,La Fontana Pizza Restaurante And Cafe,Fast Food
+132667,Little Pizza Emilio Portes Gil,Armenian,,,135086,McDonalds Parque Tangamanga,Fast Food
+134976,Log Yin,Mexican,,,135043,Pizza Clasica,Fast Food
+134976,Log Yin,Mediterranean,,,132609,Pollo Frito Buenos Aires,Fast Food
+134976,Log Yin,Burgers,,,135046,Restaurante El Reyecito,Fast Food
+135041,Luna Cafe,Bar,,,135021,Subway,Fast Food
+135041,Luna Cafe,Cafeteria,,,132717,Tortas Hawaii,Fast Food
+135075,Mariscos El Pescador,Seafood,,,135085,Tortas Locas Hipocampo,Fast Food
+132768,Mariscos Tia Licha,Family,,,132851,KFC,Game
+132583,McDonalds Centro,American,,,132846,El Lechon Potosino ,International
+135086,McDonalds Parque Tangamanga,Burgers,,,132862,La Posada Del Virrey,International
+135086,McDonalds Parque Tangamanga,Fast Food,,,134986,Restaurant Las Mañanitas,International
+135034,Michiko Restaurant Japones,Japanese,,,132854,Sirlone,International
+132766,Mikasa,Japanese,,,135035,El Mundo De La Pasta,Italian
+132630,Palomo Tec,Mexican,,,132626,La Perica Hamburguesa,Italian
+135109,Paniroles,Italian,,,135109,Paniroles,Italian
+135043,Pizza Clasica,Fast Food,,,132856,Unicol's Pizza,Italian
+135043,Pizza Clasica,Pizzeria,,,134999,Kiku Cuernavaca,Japanese
+132872,Pizzeria Julios,American,,,135034,Michiko Restaurant Japones,Japanese
+132609,Pollo Frito Buenos Aires,Fast Food,,,132766,Mikasa,Japanese
+135030,Preambulo Wifi Zone Cafe,Coffee Shop,,,132875,Shi Ro Ie,Japanese
+135030,Preambulo Wifi Zone Cafe,Cafeteria,,,135072,Sushi Itto,Japanese
+132560,Puesto de Gorditas,Regional,,,134976,Log Yin,Mediterranean
+132825,Puesto De Tacos,Mexican,,,132754,Cabana Huasteca,Mexican
+134983,Restaurant And Bar And Clothesline Carlos N Charlies,Bar,,,132613,Carnitas Mata,Mexican
+134983,Restaurant And Bar And Clothesline Carlos N Charlies,Brewery,,,132740,Carreton De Flautas Y Migadas,Mexican
+135019,Restaurant Bar Coty Y Pablo,Bar,,,132845,Cenaduria El Rincón De Tlaquepaque,Mexican
+135059,Restaurant Bar Hacienda Los Martinez,Bar,,,132773,El Cotorreo,Mexican
+135039,Restaurant De Mariscos De Picon,Seafood,,,135018,El Oceano Dorado,Mexican
+132767,Restaurant Familiar El Chino,Vietnamese,,,132925,El Pueblito,Mexican
+134986,Restaurant Las Mañanitas,International,,,135025,El Rincon De San Francisco,Mexican
+135042,Restaurant Oriental Express,Chinese,,,135106,El Rincón De San Francisco,Mexican
+135027,Restaurant Orizatlan,Mexican,,,132723,Gordas De Morales,Mexican
+135044,Restaurant Wu Zhuo Yi,Chinese,,,132834,Gorditas Doa Gloria,Mexican
+135073,Restaurante Bar El Gallinero,Bar,,,132706,Gorditas Dona Tota,Mexican
+135073,Restaurante Bar El Gallinero,Brewery,,,132584,Gorditas Doña Tota,Mexican
+135048,Restaurante Bar Fu-Hao,Bar,,,132608,Hamburguesas La Perica,Mexican
+135049,Restaurante De Mariscos La Langosta,Seafood,,,135055,La Cochinita Pibil Restaurante Yucateco,Mexican
+135046,Restaurante El Reyecito,Fast Food,,,132755,La Estrella De Dimas,Mexican
+135071,Restaurante La Cantina,Bar,,,135028,La Virreina,Mexican
+135071,Restaurante La Cantina,Brewery,,,134976,Log Yin,Mexican
+135074,Restaurante La Parroquia Potosina,Contemporary,,,132630,Palomo Tec,Mexican
+135060,Restaurante Marisco Sam,Seafood,,,132825,Puesto De Tacos,Mexican
+135058,Restaurante Tiberius,Pizzeria,,,135027,Restaurant Orizatlan,Mexican
+135054,Restaurante Y Pescaderia Tampico,Seafood,,,132663,Tacos Abi,Mexican
+132937,Rockabilly ,Bar,,,132665,Tacos Correcaminos,Mexican
+132875,Shi Ro Ie,Japanese,,,132594,Tacos De Barbacoa Enfrente Del Tec,Mexican
+132854,Sirlone,International,,,132715,Tacos De La Estacion,Mexican
+135021,Subway,Fast Food,,,132668,Tacos El Guero,Mexican
+135072,Sushi Itto,Japanese,,,132732,Taqueria El Amigo ,Mexican
+132663,Tacos Abi,Mexican,,,135104,Vips,Mexican
+132665,Tacos Correcaminos,Mexican,,,132869,Dominos Pizza,Pizzeria
+132594,Tacos De Barbacoa Enfrente Del Tec,Mexican,,,135053,La Fontana Pizza Restaurante And Cafe,Pizzeria
+132715,Tacos De La Estacion,Mexican,,,132733,Little Caesars,Pizzeria
+132668,Tacos El Guero,Mexican,,,135043,Pizza Clasica,Pizzeria
+132958,Tacos Los Volcanes,American,,,135058,Restaurante Tiberius,Pizzeria
+132732,Taqueria El Amigo ,Mexican,,,132560,Puesto de Gorditas,Regional
+132717,Tortas Hawaii,Fast Food,,,135075,Mariscos El Pescador,Seafood
+135085,Tortas Locas Hipocampo,Fast Food,,,135039,Restaurant De Mariscos De Picon,Seafood
+132870,Tortas Y Hamburguesas El Gordo,Burgers,,,135049,Restaurante De Mariscos La Langosta,Seafood
+132856,Unicol's Pizza,Italian,,,135060,Restaurante Marisco Sam,Seafood
+132951,Vips,American,,,135054,Restaurante Y Pescaderia Tampico,Seafood
+135104,Vips,Mexican,,,132767,Restaurant Familiar El Chino,Vietnamese
